@@ -46,7 +46,7 @@ Perf_id integer references list_of_performers(Perf_id)
 
 
 
-
+/*
 drop table Track_col;
 drop table collection;
 drop table perform_genre;
@@ -55,5 +55,6 @@ drop table Track_list;
 drop table Genre_list;
 drop table list_of_performers;
 drop table Albums;
+*/
 
 
